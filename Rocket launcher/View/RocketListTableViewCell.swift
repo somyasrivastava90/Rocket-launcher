@@ -1,6 +1,6 @@
 //
 //  RocketListTableViewCell.swift
-//  CaltexRocketApp
+//  Rocket launcher
 //
 //  Created by Somya on 13/5/19.
 //  Copyright © 2019 MobileDEN. All rights reserved.

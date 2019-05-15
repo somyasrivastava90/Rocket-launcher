@@ -1,6 +1,6 @@
 //
 //  RocketModelTest.swift
-//  CaltexRocketAppTests
+//  Rocket launcherTests
 //
 //  Created by Somya on 14/5/19.
 //  Copyright © 2019 MobileDEN. All rights reserved.
